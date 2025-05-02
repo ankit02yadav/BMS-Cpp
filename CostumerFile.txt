@@ -1,0 +1,19 @@
+id name date 
+item quanity price 
+totalprice $$$$$
+800 ankit Sat May 03 01:33:02 2025
+bun 3 10
+TotalPrice 30
+801 karan Sat May 03 01:36:23 2025
+bun 3 10
+bread 9 20
+roll 5 10
+TotalPrice 260
+802 shubham Sat May 03 01:51:04 2025
+pie 4 30
+tart 6 24
+TotalPrice 264
+803 manish Sat May 03 01:52:10 2025
+egg 4 10
+cake 7 40
+TotalPrice 320
