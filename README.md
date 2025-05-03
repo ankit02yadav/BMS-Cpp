@@ -1,4 +1,4 @@
-# 🍞 Bakery Management System in C++
+# 🍞 Bakery Management System in C++ 
 
 A simple console-based Bakery Management System implemented in C++. This project supports basic operations for **Admins** and **Customers**, such as managing menu items, placing orders, and viewing order details.
 
